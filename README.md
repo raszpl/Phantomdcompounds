@@ -23,3 +23,12 @@ I had to manually reverse engineer correlations between main four stats and thei
 # todo
 - Add perks influencing stats.
 - maybe work on color selection ;)
+
+
+# Used resources
+- http://phantom-doctrine.wikia.com/wiki/Body_Engineering
+- http://phantom-doctrine.wikia.com/wiki/Technology_Tree
+- http://phantom-doctrine.wikia.com/wiki/Agents
+- https://www.reddit.com/r/PhantomDoctrine/comments/98cp8x/psa_perks_and_abilities_what_they_do_numbers/
+- https://docs.google.com/spreadsheets/d/1aNCZELoeWJ6CJuOg2ZVG7a0x7XilbewP4RsXT3NZvb8
+- https://steamcommunity.com/sharedfiles/filedetails/?id=1489919688

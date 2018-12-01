@@ -14,10 +14,10 @@ I had to manually reverse engineer correlations between main four stats and thei
 - Select progress (slider) or Chapter (drop down menu). This will show available compounds at particular point in the game. Black = available.
 - Manually clicking on compounds enables/disables ones you have/are missing.
 - Reaching  chapter '4 Part 1' in the game unlocks "Remove All" Body Engineering option. This lets you see Agents raw stats. Entering those enables chosing best possible compound series for particular agent.
-- "Preview" button switches between calculating whole series vs calculating only currently unlocked compounts in the series.
+- "Preview" button switches between calculating whole series vs calculating only currently unlocked compounds in the series.
 - "Sort" button switches between original series from wikia vs properly sorted according to game unlock order.
 - Hovering over main stats (Circulatory/Sensory/Respiratory/Motoric) will highlight in yellow directly dependent parameters.
-- Hovering over compount visualizes compounts it requires (green) and blocks (red). Both should be always on the left side of every compount for the series to be valid.
+- Hovering over compound visualizes compounds it requires (green) and blocks (red). Both should be always on the left side of every compound for the series to be valid.
 
 
 # todo

@@ -21,8 +21,9 @@ I had to manually reverse engineer correlations between main four stats and thei
 
 
 # todo
+- Finish reverse engineeing stats>attribute correlation, fix Movement Range.
 - Add perks influencing stats.
-- maybe work on color selection ;)
+- Maybe work on color selection ;)
 
 
 # Used resources
